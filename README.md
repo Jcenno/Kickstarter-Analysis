@@ -5,3 +5,4 @@ This project focused on analyzing various Kickstarter fundraising outcomes compa
 
 ## Analysis and Challenges
 The client provided a dataset for us to begin work with in a .xlsx file format. 
+Dataset_Example.png
