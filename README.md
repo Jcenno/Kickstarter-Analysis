@@ -1,5 +1,5 @@
 # Kickstarter-Analysis
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends.
 ## Project Purpose
 This project focused on analyzing various Kickstarter fundraising outcomes compared to their funding goals and launch dates.
 
