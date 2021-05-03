@@ -12,7 +12,7 @@ Here is an example of the dataset Louise provided:
 
 We created a chart based on the dataset given (chart below) that allows us to draw conclusions on when the best time would be for launching a campaign. Looking at the successful and failed lines we can see that from February through may we have Not only the lowest amount of failed fund raising events, but also the highest amount of successful ones.
 
-![Outcomes_Based_On_Launch_Dates](https://github.com/Jcenno/Kickstarter-Analysis/blob/68abf0295f3ddc0f81a11e32820a1dd4000aa7f5/Outcomes_Based_On_Launch_Date.png)
+![Outcomes_Based_On_Launch_Dates](https://github.com/Jcenno/Kickstarter-Analysis/blob/f848ba7f3bc63c0339491cb77da94651280bafad/Outcomes_Based_On_Launch_Date2.png)
 
 We then created a chart based on on percentage of successful, failed and canceled campaigns according to their dollar amount. Here we can see that that as the dollar amount increased the chance for success decreases. When the amounts of money gets too large we can see the eratic movement of the lines due to too little data.
 
